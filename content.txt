@@ -1,0 +1,4 @@
+Working
+with
+git - a simple, fast, and superb version control system
+~*.*
